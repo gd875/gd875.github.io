@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Settlement Scraper"
-date:   2016-12-16 06:04:18 +0000
+date:   2016-12-16 01:04:18 -0500
 ---
 
 
